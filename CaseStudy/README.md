@@ -30,3 +30,6 @@
 |----|----------------------------| 
 |LL1|obstacle detects using sensor|
 |LL2|Oscillator To vibrate|
+
+# Mid Level Requirements
+* To protect blind people the microcontoller and ultrasonic sensor with buzzer are connected to their stick.So sensor and controller and oscillator is also used to get vibration.
