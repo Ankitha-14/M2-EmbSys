@@ -1,3 +1,5 @@
 # A Finger Print based voting system
 
-[fingerprint.docx](https://github.com/Ankitha-14/M2-EmbSys/files/8106418/fingerprint.docx)
+
+![Fingerprint](https://user-images.githubusercontent.com/85921878/154894073-ca82491e-5ae1-4b9c-a679-32bb00408326.jpeg)
+
