@@ -10,13 +10,13 @@ An optical sensor has a transmitter and a receiver, whereas an ultrasonic sensor
 A solitary oscillator transmits and receives ultrasonic waves in an intelligent model ultrasonic sensor.
 This allows the sensor head to be scaled down.
 
-* Buzzer: It is used to sound effectively with same intensity.
+* Buzzer: It is used to sound effectively with same intensity. A buzzer is a little but effective component that adds sound highlights to our project/framework.
+Because of its small and simplified 2-pin construction, it can be used on a breadboard and  shockingly, PCBs, making it a widely used segment in most electronic applications.
+
 
 * Crystal Oscillator: It is an electronic oscillator  used for the vibration contains high frequency.
 
-* Battery: It has to be used to run the whole blindstick.A buzzer is a little but effective component that adds sound highlights to our project/framework.
-Because of its small and simplified 2-pin construction, it can be used on a breadboard and  shockingly, PCBs, making it a widely used segment in most electronic applications.
-
+* Battery: It has to be used to run the whole blindstick.
 * Wooden Stick: It is the main soiurce for them to walk so all are connected to the stick.
 
 # High Level requirememnts
