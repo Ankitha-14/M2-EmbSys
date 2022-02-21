@@ -27,3 +27,13 @@ The MAX-232 is an incorporated circuit that converts alerts from an RS-232 seria
 * Keypad:
 Push buttons are utilized in keypad. A push-button or clearly  button is a easy transfer mechanism for controlling a few  factor of a system or a process. Buttons are usually made 
  out of tough material, generally plastic or metal.
+ 
+ # Requirements
+ 
+ • Less manpower required
+• Time conscious, much less time required for vote casting & 
+ counting
+• Avoids invalid vote casting because it prevents unregistered 
+ citizens from vote casting.
+• Ease of transportation because of its compact size.
+• Convenient at the a part of vote.
