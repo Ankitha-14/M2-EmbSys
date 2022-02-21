@@ -19,3 +19,7 @@ Transformer, Rectifier, Filter, and 7805 voltage regulator are the major compone
 * Arm Controller:
 
 ARM controller is Brain of this project, it has the capabilities  like 32-bit ARM7TDMI-S microcontroller in a tiny LQFP64  package.eight kB to forty kB of on-chip static RAM and 32 kB to 512kB of on-chip flash memory. 128-bit huge  interface/accelerator allows high-velocity 60 MHz operation.  Various 32-bit timers, unmarried or twin 10-bit ADC(s), 10-bit  DAC, PWM channels and forty five rapid GPIO traces with as much as 9  area or stage touchy outside interrupt pins make those  microcontrollers appropriate for business manipulate and clinical systems.
+
+* MAX-232:
+
+The MAX-232 is an incorporated circuit that converts alerts from an RS-232 serial port to alerts appropriate to be used in TTL  like minded virtual common sense circuits. The MAX-232 is a twin  driver/receiver and commonly converts the RX, TX, CTS and  RTS alerts .The drivers offer RS-232 voltage degree outputs  (approx. ± 7.five V) from a single + five V deliver through on-chip  price pumps and outside capacitors
