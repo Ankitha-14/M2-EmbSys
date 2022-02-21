@@ -25,15 +25,20 @@ ARM controller is Brain of this project, it has the capabilities  like 32-bit AR
 The MAX-232 is an incorporated circuit that converts alerts from an RS-232 serial port to alerts appropriate to be used in TTL  like minded virtual common sense circuits. The MAX-232 is a twin  driver/receiver and commonly converts the RX, TX, CTS and  RTS alerts .The drivers offer RS-232 voltage degree outputs  (approx. ± 7.five V) from a single + five V deliver through on-chip  price pumps and outside capacitors
 
 * Keypad:
+
 Push buttons are utilized in keypad. A push-button or clearly  button is a easy transfer mechanism for controlling a few  factor of a system or a process. Buttons are usually made 
  out of tough material, generally plastic or metal.
  
  # Requirements
  
- • Less manpower required
+ • Less manpower required.
+ 
 • Time conscious, much less time required for vote casting & 
- counting
+ counting.
+ 
 • Avoids invalid vote casting because it prevents unregistered 
  citizens from vote casting.
+ 
 • Ease of transportation because of its compact size.
+
 • Convenient at the a part of vote.
