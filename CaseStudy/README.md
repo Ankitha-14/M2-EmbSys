@@ -5,7 +5,7 @@
 ![Smart Blindstick Block diagram](https://user-images.githubusercontent.com/85921878/154840562-6a8007bf-fc96-449c-8e55-f1b424aa4baf.jpeg)
 
 
-* Ultrasonic sensor: Ultrasonic sensor is fixed to user's stick to detect the onstacle ,if any is present in the path.
+* Ultrasonic sensor: Ultrasonic sensor is fixed to user's stick to detect the onstacle ,if any is present in the path. Ultrasonic sensors  collect the data and send it in real time       to the microcontroller. The  microcontroller triggers the buzzer after processing certain details
 
 * Buzzer: It is used to sound effectively with same intensity.
 
