@@ -12,11 +12,7 @@
 
 |ID |	Description|
 |---------|---------------------------------|
-
-|LR01 |	If the user wants to Enroll press key “1”|
-
-|LR02 |	If the user wants to reset or delete data from EEPROM press key “2”|
-
-|LR03 |	If the user wants to decrement or increment the data press key “3” and “4”|
-
-|LR04 |	User may download the attendance data by pressing and holding key 4.|
+|LR01|If the user wants to Enroll press key “1”|
+|LR02|If the user wants to reset or delete data from EEPROM press key “2”|
+|LR03|If the user wants to decrement or increment the data press key “3” and “4”|
+|LR04|User may download the attendance data by pressing and holding key 4|
