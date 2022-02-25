@@ -1,4 +1,6 @@
-
+# Description
+Biometric fingerprint devices are used in electronic balloters to identify voters. It is a fingerprint-based voting device that does not require the user to carry an ID card, including the required ID card. People in the polling booth can capture the fingerprints of voters in the field by simply placing their finger on the device. This acts as an ID.
+ This data is  passed to the control unit for  checks. Controller  retrieves data from the reader and compares this  data with  existing data stored in during voter registration. If the data matches previously stored information Of the registered fingerprints, that person can cast  votes. Otherwise, a warning message will be displayed on the LCD and  votes will be prohibited. Voting is run manually using the push button. LCD is used to display results of related messages, warnings, and  results.
 # High Level Requirements
 
 |ID |	Description|
