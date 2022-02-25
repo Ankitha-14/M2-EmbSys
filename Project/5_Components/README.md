@@ -10,7 +10,7 @@
  * This device is the most popular of all identification  devices because it is easy to retrieve and many sources of  are available for  data collection. It turned out to be widely used for law enforcement and immigration purposes. The module used here is R305. The basis of this identification process  comes from the "Galton Point". This is a specific feature defined by Sir Francis Garton who can identify the fingerprint  This  module compares the scanned image  with an  existing fingerprint to get  the correct ID. The comparison is made by the 
  processor and the comparison is made between the valley and the  edge. The entire fingerprint is recorded, but the computer  takes only part of the print for comparison with other records.
  # Crystal Oscillator
- 
+ * A crystal oscillator is an electronic oscillator that uses a crystal as a frequency selection factor to achieve the inverse piezoelectric effect. The mechanical resonance of the vibrating crystal with piezoelectric characteristics is used to acquire an electric signal with a high precision frequency. Crystal oscillators are considered superior to ceramic resonators because of their high stability, high quality, low cost, and small size.
  
  # Power source module
  * The main blocks of power  are under the  transformer, rectifier, filter and 7805 voltage regulator. These provide  regulated power  to devices that are first converted to 12VAC. 12V  AC is converted to DC using a rectifier circuit. Finally, the 7805 voltage regulator provides a constant 5VDC power supply  to the circuit. 
