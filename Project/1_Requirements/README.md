@@ -5,6 +5,18 @@
  # Swot Analysis
  
  ![Finger SWOT](https://user-images.githubusercontent.com/85921878/155755195-94289743-45ff-4d45-b326-e8674b9452f1.jpg)
+ 
+ # 4 W's & 1 H
+ 
+ * Who : Anyone who is eligible to vote
+
+* Why: As we know vote is everybody's right to vote.
+
+* When : At the time of Elections.
+
+* Where: Either  at a place or from our own place
+
+* How : By just placing our finger on the screen.
 # High Level Requirements
 
 |ID |	Description|
