@@ -3,14 +3,10 @@
 
 |ID |	Description|
 |-------|-----------------------------------------|
-
-|HR01| 	It should be able to take input from the user|
-
-|HR02 |	It should detect any finger print|
-
-|HR03 |	It should be able to do functions like Enroll, Detect, Increment and Decrement finger-print data.|
-
-|HR04 |	It should display information whenever a finger print is detected, and buzzer should beep once.|
+|HR01|It should be able to take input from the user|
+|HR02|It should detect any finger print|
+|HR03|It should be able to do functions like Enroll, Detect, Increment and Decrement finger-print data.|
+|HR04|It should display information whenever a finger print is detected, and buzzer should beep once.|
 
 # Low Level Requirements
 
