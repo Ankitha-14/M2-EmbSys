@@ -1,7 +1,7 @@
 
 # High Level Requirements
 
-|ID 	Description|
+|ID |	Description|
 |-------|-----------------------------------------|
 
 |HR01| 	It should be able to take input from the user|
@@ -14,7 +14,7 @@
 
 # Low Level Requirements
 
-|ID 	Description|
+|ID |	Description|
 |---------|---------------------------------|
 
 |LR01 |	If the user wants to Enroll press key “1”|
